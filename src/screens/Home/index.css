@@ -1,0 +1,17 @@
+.home-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-main > button {
+  margin-top: 1rem;
+  font-size: 18px;
+  padding: 0.5rem 1rem;
+}
+
+.home-main > .error {
+  color: red;
+  font-size: 18px;
+  margin-top: 1rem;
+}
